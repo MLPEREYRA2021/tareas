@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+h1 {font-family: 'Bungee Inline', cursive;}
+
+.lead 
+{text-shadow: 5px 5px 10px rgb(0, 0, 0);
+    color: yellow;
+    text-align: center;
+     font-family: sans-serif;
+     display:block ;}
+
+.container 
+{background-image: url("fondoo.png"); 
+    background-size: 100% 20%;
+    border: 3px solid black;}
+
+body 
+{background-image: url("depositphotos_45339297-stock-illustration-pop-art-comic-dotted-background.jpg"); }
+
+div img 
+{background-image: url("fondo imagen.jpg"); 
+    background-size: 100% 100%;}
+
+header div{
+    background-image: url("titulo.jpg"); 
+    background-size: cover;
+    -webkit-text-stroke: 3px black;
+}
+
+nav :hover {font-size: 20px;}

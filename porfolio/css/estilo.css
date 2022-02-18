@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Major+Mono+Display&display=swap');
+
+body 
+{background-image: url("fondo verde.jpg"); 
+background-size: 100%;}
+
+#portada 
+{background-image: url("zocalo2.png");
+background-size: 100% 150%; 
+height: 80%; }
+
+.text-cust {
+    font-family: 'DotGothic16', sans-serif;
+    font-size:large ;
+}
+
+footer{
+    background-image: url("pie.jpg");
+    background-size: 20%;
+background-position: bottom;}
+
+#boton :hover {filter: drop-shadow(0px 2px 20px green);}
