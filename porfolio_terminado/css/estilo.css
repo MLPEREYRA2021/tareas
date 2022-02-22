@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&family=Montserrat+Subrayada:wght@700&display=swap');
+
+body 
+{background-image: url("fondo verde.jpg"); 
+background-size: 100% 50%;}
+
+#portada 
+{background-image: url("zocalo2.png");
+background-size: 100% 150%; 
+height: 100%; }
+
+
+footer{
+    background-image: url("pie.jpg");
+    background-size: 20%;
+background-position: bottom;}
+
+#boton :hover {filter: drop-shadow(0px 2px 20px green);}
+
+.text {
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 10%;
+}
+.textcust {
+    color: black;
+    -webkit-text-stroke: 2px green;
+    font-size: 10vw;
+    text-align:center;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    padding-top: 5%;
+}
+
+.enc {
+    width:100%;
+    max-width: 500px;
+}
+
+.imagen2{
+    max-width: 500px;
+}
